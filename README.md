@@ -1,2 +1,2 @@
 # danse-sociale-default
-Mes danses sociales
+Mes danses sociales.
